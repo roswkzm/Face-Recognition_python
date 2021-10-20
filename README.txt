@@ -16,3 +16,5 @@
 감사합니다.
 
 GitHub의 개별파일 용량제한으로 인해 G드라이브 링크를 첨부하겠습니다.
+
+https://drive.google.com/file/d/1jbcS2o6pJGSrFJTIkMec5-V_mIju9El0/view?usp=sharing
