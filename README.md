@@ -1,4 +1,4 @@
-파이썬의 다양한 라이브러리를 사용하였습니다.
+# 파이썬의 다양한 라이브러리를 사용하였습니다.
 
 1) 머신러닝을 사용하여 사용자의 얼굴에 대해 흑백의 이미지로 캡쳐하여 학습하고
 
@@ -7,13 +7,17 @@
 (Find_Face.py, Face_Learning.py, Face_Recognition.py)
 
 
-2) YOLO알고리즘을 사용하여 딥러닝을 통한 사진속 객체 검출
+# 2) YOLO알고리즘을 사용하여 딥러닝을 통한 사진속 객체 검출
 
 (yolo_object_detection.py)
 
 
-해당 파일이 들어가있는 폴더와 실행 영상을 찍은 동영상을 첨부하였습니다.
-감사합니다.
+# 실행영상
+
+[![Video Label](https://i9.ytimg.com/vi_webp/Lw8x3vP9K7w/mqdefault.webp?v=61e3cbce&sqp=CNCXj48G&rs=AOn4CLDUh8mikp7fYlCRRackttsJR5CJeg)](https://www.youtube.com/watch?v=Lw8x3vP9K7w)
+
+⬆⬆⬆ 클릭시 실행 영상으로 이동 ⬆⬆⬆
+
 
 GitHub의 개별파일 용량제한으로 인해 G드라이브 링크를 첨부하겠습니다.
 
