@@ -14,7 +14,7 @@
 
 # 실행영상
 
-[![Video Label](https://i9.ytimg.com/vi_webp/Lw8x3vP9K7w/mqdefault.webp?v=61e3cbce&sqp=CNCXj48G&rs=AOn4CLDUh8mikp7fYlCRRackttsJR5CJeg)](https://www.youtube.com/watch?v=Lw8x3vP9K7w)
+[![Video Label](https://i9.ytimg.com/vi_webp/Lw8x3vP9K7w/mqdefault.webp?v=61e3cbce&sqp=CPT0no8G&rs=AOn4CLD8QZRKSSItQMMzbMC9QCW6OdJKCA)](https://www.youtube.com/watch?v=Lw8x3vP9K7w)
 
 ⬆⬆⬆ 클릭시 실행 영상으로 이동 ⬆⬆⬆
 
